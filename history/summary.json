@@ -112,19 +112,19 @@
     "url": "https://e9.digital",
     "icon": "https://icons.duckduckgo.com/ip3/e9.digital.ico",
     "slug": "e9",
-    "status": "up",
-    "uptime": "94.23%",
-    "uptimeDay": "92.17%",
-    "uptimeWeek": "94.23%",
-    "uptimeMonth": "94.23%",
-    "uptimeYear": "94.23%",
+    "status": "down",
+    "uptime": "95.04%",
+    "uptimeDay": "93.09%",
+    "uptimeWeek": "95.04%",
+    "uptimeMonth": "95.04%",
+    "uptimeYear": "95.04%",
     "time": 255,
     "timeDay": 247,
     "timeWeek": 255,
     "timeMonth": 255,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2023-07-07": 113
+      "2023-07-07": 100
     }
   }
 ]
