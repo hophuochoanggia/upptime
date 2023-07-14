@@ -9,6 +9,10 @@ sites:
     url: https://id.delonghi.com/
   - name: De'Longhi PH
     url: https://delonghi.ph/
+  - name: De'Longhi TH
+    url: https://delonghi.co.th/
+  - name: De'Longhi CA
+    url: https://kh.delonghi.com/
   - name: Braun VN
     url: https://vn.braunhousehold.com/
   - name: Braun TH
