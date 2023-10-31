@@ -24,19 +24,19 @@
     "url": "https://id.delonghi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.delonghi.com.ico",
     "slug": "de-longhi-id",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2061,
-    "timeDay": 2383,
-    "timeWeek": 2377,
-    "timeMonth": 2378,
-    "timeYear": 2061,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 2065,
+    "timeDay": 2354,
+    "timeWeek": 2368,
+    "timeMonth": 2374,
+    "timeYear": 2065,
     "dailyMinutesDown": {
-      "2023-10-31": 1
+      "2023-10-31": 9
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://delonghi.ph/",
     "icon": "https://icons.duckduckgo.com/ip3/delonghi.ph.ico",
     "slug": "de-longhi-ph",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2104,
-    "timeDay": 1360,
-    "timeWeek": 2231,
-    "timeMonth": 2403,
-    "timeYear": 2104,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 2113,
+    "timeDay": 1786,
+    "timeWeek": 2276,
+    "timeMonth": 2414,
+    "timeYear": 2113,
     "dailyMinutesDown": {
-      "2023-10-31": 0
+      "2023-10-31": 9
     }
   },
   {
