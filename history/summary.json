@@ -4,11 +4,11 @@
     "url": "https://delonghi.vn/",
     "icon": "https://icons.duckduckgo.com/ip3/delonghi.vn.ico",
     "slug": "de-longhi-vn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 2858,
     "timeDay": 3423,
@@ -16,6 +16,7 @@
     "timeMonth": 3364,
     "timeYear": 2858,
     "dailyMinutesDown": {
+      "2023-11-14": 5,
       "2023-07-26": 18
     }
   },
@@ -24,46 +25,50 @@
     "url": "https://id.delonghi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.delonghi.com.ico",
     "slug": "de-longhi-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2445,
     "timeDay": 2489,
     "timeWeek": 4886,
     "timeMonth": 2993,
     "timeYear": 2445,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-14": 4
+    }
   },
   {
     "name": "De'Longhi PH",
     "url": "https://delonghi.ph/",
     "icon": "https://icons.duckduckgo.com/ip3/delonghi.ph.ico",
     "slug": "de-longhi-ph",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2303,
-    "timeDay": 2339,
-    "timeWeek": 2407,
-    "timeMonth": 2636,
-    "timeYear": 2303,
-    "dailyMinutesDown": {}
+    "time": 2291,
+    "timeDay": 1862,
+    "timeWeek": 2305,
+    "timeMonth": 2604,
+    "timeYear": 2291,
+    "dailyMinutesDown": {
+      "2023-11-14": 3
+    }
   },
   {
     "name": "De'Longhi TH",
     "url": "https://delonghi.co.th/",
     "icon": "https://icons.duckduckgo.com/ip3/delonghi.co.th.ico",
     "slug": "de-longhi-th",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2595,
@@ -71,16 +76,18 @@
     "timeWeek": 2703,
     "timeMonth": 2937,
     "timeYear": 2595,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-14": 2
+    }
   },
   {
     "name": "De'Longhi CA",
     "url": "https://kh.delonghi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/kh.delonghi.com.ico",
     "slug": "de-longhi-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +96,9 @@
     "timeWeek": 2529,
     "timeMonth": 2584,
     "timeYear": 2301,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-14": 0
+    }
   },
   {
     "name": "Braun VN",
