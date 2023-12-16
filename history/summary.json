@@ -24,19 +24,19 @@
     "url": "https://id.delonghi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.delonghi.com.ico",
     "slug": "de-longhi-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2465,
-    "timeDay": 2306,
-    "timeWeek": 2378,
-    "timeMonth": 2511,
-    "timeYear": 2465,
+    "time": 2463,
+    "timeDay": 2291,
+    "timeWeek": 2365,
+    "timeMonth": 2503,
+    "timeYear": 2463,
     "dailyMinutesDown": {
-      "2023-12-16": 1
+      "2023-12-16": 9
     }
   },
   {
