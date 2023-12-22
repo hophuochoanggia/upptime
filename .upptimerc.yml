@@ -17,10 +17,17 @@ sites:
     url: https://vn.braunhousehold.com/
   - name: Braun TH
     url: https://th.braunhousehold.com/
+  - name: Kenwood World
+    url: https://th.kenwoodworld.com/
   - name: CPAP
     url: https://cpapdiscount.au/
   - name: E9
     url: https://e9.digital
+  - name: The Oasis
+    url: https://www.the-oasis.com.au/
+  - name: CLM Sleep
+    url: https://www.clmsleep.com/
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
