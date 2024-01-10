@@ -27,6 +27,8 @@ sites:
     url: https://www.the-oasis.com.au/
   - name: CLM Sleep
     url: https://www.clmsleep.com/
+  - name: Zoodoo
+    url: https://www.zoodoodalat.com/
     
 
 status-website:
