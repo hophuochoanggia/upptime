@@ -150,9 +150,9 @@
     "url": "https://cpapdiscount.au/",
     "icon": "https://icons.duckduckgo.com/ip3/cpapdiscount.au.ico",
     "slug": "cpap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,7 +161,9 @@
     "timeWeek": 329,
     "timeMonth": 247,
     "timeYear": 273,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-15": 0
+    }
   },
   {
     "name": "E9",
