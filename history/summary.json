@@ -24,54 +24,60 @@
     "url": "https://id.delonghi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.delonghi.com.ico",
     "slug": "de-longhi-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2462,
     "timeDay": 2991,
     "timeWeek": 2517,
-    "timeMonth": 2453,
+    "timeMonth": 2459,
     "timeYear": 2462,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-16": 1
+    }
   },
   {
     "name": "De'Longhi PH",
     "url": "https://delonghi.ph/",
     "icon": "https://icons.duckduckgo.com/ip3/delonghi.ph.ico",
     "slug": "de-longhi-ph",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2519,
-    "timeDay": 3058,
-    "timeWeek": 2628,
-    "timeMonth": 2734,
-    "timeYear": 2519,
-    "dailyMinutesDown": {}
+    "time": 2531,
+    "timeDay": 3627,
+    "timeWeek": 2770,
+    "timeMonth": 2780,
+    "timeYear": 2531,
+    "dailyMinutesDown": {
+      "2024-01-16": 1
+    }
   },
   {
     "name": "De'Longhi TH",
     "url": "https://delonghi.co.th/",
     "icon": "https://icons.duckduckgo.com/ip3/delonghi.co.th.ico",
     "slug": "de-longhi-th",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2855,
-    "timeDay": 3105,
-    "timeWeek": 3723,
-    "timeMonth": 3192,
-    "timeYear": 2855,
-    "dailyMinutesDown": {}
+    "time": 2909,
+    "timeDay": 6269,
+    "timeWeek": 4242,
+    "timeMonth": 3393,
+    "timeYear": 2909,
+    "dailyMinutesDown": {
+      "2024-01-16": 1
+    }
   },
   {
     "name": "De'Longhi CA",
