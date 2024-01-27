@@ -104,9 +104,9 @@
     "slug": "braun-vn",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1123,
     "timeDay": 878,
@@ -114,7 +114,7 @@
     "timeMonth": 1091,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2024-01-27": 1
+      "2024-01-27": 9
     }
   },
   {
@@ -122,19 +122,19 @@
     "url": "https://th.braunhousehold.com/",
     "icon": "https://icons.duckduckgo.com/ip3/th.braunhousehold.com.ico",
     "slug": "braun-th",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 949,
-    "timeDay": 742,
-    "timeWeek": 880,
-    "timeMonth": 898,
-    "timeYear": 949,
+    "time": 997,
+    "timeDay": 4072,
+    "timeWeek": 1695,
+    "timeMonth": 1130,
+    "timeYear": 997,
     "dailyMinutesDown": {
-      "2024-01-27": 0
+      "2024-01-27": 9
     }
   },
   {
