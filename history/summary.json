@@ -103,18 +103,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vn.braunhousehold.com.ico",
     "slug": "braun-vn",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "94.91%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "93.35%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.97%",
     "time": 1244,
     "timeDay": 4516,
     "timeWeek": 2643,
     "timeMonth": 1650,
     "timeYear": 1244,
     "dailyMinutesDown": {
-      "2024-01-27": 74
+      "2024-01-27": 96
     }
   },
   {
@@ -122,9 +122,9 @@
     "url": "https://th.braunhousehold.com/",
     "icon": "https://icons.duckduckgo.com/ip3/th.braunhousehold.com.ico",
     "slug": "braun-th",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -133,7 +133,9 @@
     "timeWeek": 1710,
     "timeMonth": 1155,
     "timeYear": 1003,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-27": 0
+    }
   },
   {
     "name": "Kenwood World",
