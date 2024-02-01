@@ -6,9 +6,9 @@
     "slug": "de-longhi-vn",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 2961,
     "timeDay": 3446,
@@ -16,7 +16,6 @@
     "timeMonth": 3242,
     "timeYear": 2961,
     "dailyMinutesDown": {
-      "2024-02-01": 8,
       "2024-01-29": 42,
       "2023-07-26": 18
     }
@@ -28,9 +27,9 @@
     "slug": "de-longhi-id",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 2590,
     "timeDay": 1896,
@@ -38,7 +37,6 @@
     "timeMonth": 3035,
     "timeYear": 2590,
     "dailyMinutesDown": {
-      "2024-02-01": 8,
       "2024-01-16": 18
     }
   },
@@ -225,19 +223,19 @@
     "url": "https://www.clmsleep.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.clmsleep.com.ico",
     "slug": "clm-sleep",
-    "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "85.54%",
-    "uptimeWeek": "97.93%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.65%",
-    "time": 2877,
-    "timeDay": 2582,
-    "timeWeek": 2944,
-    "timeMonth": 2901,
-    "timeYear": 2877,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "83.65%",
+    "uptimeWeek": "97.66%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.60%",
+    "time": 2913,
+    "timeDay": 3448,
+    "timeWeek": 3115,
+    "timeMonth": 2950,
+    "timeYear": 2913,
     "dailyMinutesDown": {
-      "2024-02-01": 208
+      "2024-02-01": 235
     }
   },
   {
