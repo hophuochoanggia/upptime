@@ -4,10 +4,10 @@
     "url": "https://delonghi.vn/",
     "icon": "https://icons.duckduckgo.com/ip3/delonghi.vn.ico",
     "slug": "de-longhi-vn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.58%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 2955,
@@ -16,6 +16,7 @@
     "timeMonth": 3223,
     "timeYear": 2955,
     "dailyMinutesDown": {
+      "2024-02-01": 1,
       "2024-01-29": 42,
       "2023-07-26": 18
     }
@@ -25,18 +26,19 @@
     "url": "https://id.delonghi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.delonghi.com.ico",
     "slug": "de-longhi-id",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 2602,
-    "timeDay": 2392,
-    "timeWeek": 4632,
-    "timeMonth": 3117,
-    "timeYear": 2602,
+    "time": 2591,
+    "timeDay": 1625,
+    "timeWeek": 4255,
+    "timeMonth": 3052,
+    "timeYear": 2591,
     "dailyMinutesDown": {
+      "2024-02-01": 1,
       "2024-01-16": 18
     }
   },
@@ -224,18 +226,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clmsleep.com.ico",
     "slug": "clm-sleep",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.66%",
+    "uptimeDay": "86.09%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.66%",
     "time": 2877,
     "timeDay": 2582,
     "timeWeek": 2944,
     "timeMonth": 2901,
     "timeYear": 2877,
     "dailyMinutesDown": {
-      "2024-02-01": 0
+      "2024-02-01": 200
     }
   },
   {
