@@ -10,11 +10,11 @@
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
-    "time": 2961,
-    "timeDay": 3413,
-    "timeWeek": 3416,
-    "timeMonth": 3235,
-    "timeYear": 2961,
+    "time": 2958,
+    "timeDay": 2440,
+    "timeWeek": 3395,
+    "timeMonth": 3211,
+    "timeYear": 2958,
     "dailyMinutesDown": {
       "2024-01-29": 42,
       "2023-07-26": 18
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 2588,
-    "timeDay": 1846,
-    "timeWeek": 4056,
-    "timeMonth": 3014,
-    "timeYear": 2588,
+    "time": 2585,
+    "timeDay": 2128,
+    "timeWeek": 3982,
+    "timeMonth": 2991,
+    "timeYear": 2585,
     "dailyMinutesDown": {
       "2024-01-16": 18
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 2580,
-    "timeDay": 2704,
-    "timeWeek": 2952,
-    "timeMonth": 2856,
-    "timeYear": 2580,
+    "time": 2579,
+    "timeDay": 2472,
+    "timeWeek": 2896,
+    "timeMonth": 2846,
+    "timeYear": 2579,
     "dailyMinutesDown": {
       "2024-01-16": 18
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 2943,
-    "timeDay": 3095,
-    "timeWeek": 3449,
-    "timeMonth": 3495,
-    "timeYear": 2943,
+    "time": 2938,
+    "timeDay": 2284,
+    "timeWeek": 3401,
+    "timeMonth": 3462,
+    "timeYear": 2938,
     "dailyMinutesDown": {
       "2024-01-16": 18
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2849,
-    "timeDay": 2803,
-    "timeWeek": 3594,
-    "timeMonth": 3819,
-    "timeYear": 2849,
+    "time": 2845,
+    "timeDay": 2247,
+    "timeWeek": 3495,
+    "timeMonth": 3772,
+    "timeYear": 2845,
     "dailyMinutesDown": {}
   },
   {
@@ -109,11 +109,11 @@
     "uptimeWeek": "97.85%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.93%",
-    "time": 1238,
-    "timeDay": 1136,
-    "timeWeek": 2429,
-    "timeMonth": 1597,
-    "timeYear": 1238,
+    "time": 1236,
+    "timeDay": 999,
+    "timeWeek": 2438,
+    "timeMonth": 1580,
+    "timeYear": 1236,
     "dailyMinutesDown": {
       "2024-01-28": 97,
       "2024-01-27": 120
@@ -130,11 +130,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 1003,
-    "timeDay": 950,
-    "timeWeek": 1711,
-    "timeMonth": 1162,
-    "timeYear": 1003,
+    "time": 1002,
+    "timeDay": 764,
+    "timeWeek": 1713,
+    "timeMonth": 1150,
+    "timeYear": 1002,
     "dailyMinutesDown": {
       "2024-01-27": 17
     }
@@ -150,11 +150,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2357,
-    "timeDay": 2319,
-    "timeWeek": 2471,
-    "timeMonth": 2369,
-    "timeYear": 2357,
+    "time": 2346,
+    "timeDay": 1896,
+    "timeWeek": 2411,
+    "timeMonth": 2355,
+    "timeYear": 2346,
     "dailyMinutesDown": {}
   },
   {
@@ -169,8 +169,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 267,
-    "timeDay": 625,
-    "timeWeek": 249,
+    "timeDay": 265,
+    "timeWeek": 240,
     "timeMonth": 262,
     "timeYear": 267,
     "dailyMinutesDown": {
@@ -189,8 +189,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 388,
-    "timeDay": 287,
-    "timeWeek": 340,
+    "timeDay": 520,
+    "timeWeek": 379,
     "timeMonth": 513,
     "timeYear": 388,
     "dailyMinutesDown": {
@@ -209,11 +209,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 511,
-    "timeDay": 59,
-    "timeWeek": 171,
-    "timeMonth": 616,
-    "timeYear": 511,
+    "time": 502,
+    "timeDay": 109,
+    "timeWeek": 138,
+    "timeMonth": 600,
+    "timeYear": 502,
     "dailyMinutesDown": {
       "2024-01-17": 17
     }
@@ -224,15 +224,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clmsleep.com.ico",
     "slug": "clm-sleep",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "83.65%",
+    "uptime": "99.62%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.66%",
     "uptimeMonth": "99.46%",
-    "uptimeYear": "99.61%",
+    "uptimeYear": "99.62%",
     "time": 2920,
-    "timeDay": 3749,
-    "timeWeek": 3063,
-    "timeMonth": 2958,
+    "timeDay": 2922,
+    "timeWeek": 3130,
+    "timeMonth": 2957,
     "timeYear": 2920,
     "dailyMinutesDown": {
       "2024-02-01": 235
@@ -249,11 +249,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 236,
-    "timeWeek": 168,
-    "timeMonth": 310,
-    "timeYear": 310,
+    "time": 311,
+    "timeDay": 347,
+    "timeWeek": 206,
+    "timeMonth": 311,
+    "timeYear": 311,
     "dailyMinutesDown": {}
   }
 ]
