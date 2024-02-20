@@ -119,11 +119,11 @@
     "url": "https://vn.braunhousehold.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vn.braunhousehold.com.ico",
     "slug": "braun-vn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.51%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "99.93%",
     "time": 1224,
     "timeDay": 1198,
@@ -131,6 +131,7 @@
     "timeMonth": 1567,
     "timeYear": 1224,
     "dailyMinutesDown": {
+      "2024-02-20": 1,
       "2024-01-28": 97,
       "2024-01-27": 120
     }
@@ -140,9 +141,9 @@
     "url": "https://th.braunhousehold.com/",
     "icon": "https://icons.duckduckgo.com/ip3/th.braunhousehold.com.ico",
     "slug": "braun-th",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -152,6 +153,7 @@
     "timeMonth": 1135,
     "timeYear": 991,
     "dailyMinutesDown": {
+      "2024-02-20": 0,
       "2024-01-27": 17
     }
   },
@@ -161,11 +163,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/th.kenwoodworld.com.ico",
     "slug": "kenwood-world",
     "status": "up",
-    "uptime": "97.98%",
+    "uptime": "97.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.03%",
-    "uptimeYear": "97.98%",
+    "uptimeYear": "97.99%",
     "time": 2524,
     "timeDay": 2280,
     "timeWeek": 2165,
