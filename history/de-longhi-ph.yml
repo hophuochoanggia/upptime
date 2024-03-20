@@ -1,7 +1,7 @@
 url: https://delonghi.ph/
-status: up
-code: 200
-responseTime: 1847
-lastUpdated: 2024-03-19T23:13:01.630Z
+status: down
+code: 500
+responseTime: 12586
+lastUpdated: 2024-03-20T05:53:46.282Z
 startTime: 2023-07-06T05:04:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
