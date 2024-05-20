@@ -39,6 +39,8 @@ sites:
     url: https://www.zoodoodalat.com/
   - name: EuroCham Dev
     url: https://eurochamvn.dev/home-page/
+    headers:
+      - "Authorization: ${{ secrets.EuroAuth }}"
   - name: E9 Plane
     url: https://plane.e9.digital/
 
