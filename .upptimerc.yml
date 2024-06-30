@@ -37,6 +37,8 @@ sites:
     url: https://www.clmsleep.com/
   - name: Zoodoo
     url: https://www.zoodoodalat.com/
+  - name: CPAP SA
+    url: https://www.cpapsa.com.au/
   - name: EuroCham Dev
     url: https://eurochamvn.dev/home-page/
     headers:
