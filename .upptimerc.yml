@@ -40,9 +40,7 @@ sites:
   - name: CPAP SA
     url: https://www.cpapsa.com.au/
   - name: EuroCham Dev
-    url: https://eurochamvn.dev/home-page/
-    headers:
-      - "Authorization: Basic ${{ secrets.EUROAUTH }}"
+    url: https://eurochamvn.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
