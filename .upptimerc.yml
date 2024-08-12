@@ -39,7 +39,7 @@ sites:
     url: https://www.zoodoodalat.com/
   - name: CPAP SA
     url: https://www.cpapsa.com.au/
-  - name: EuroCham Dev
+  - name: EuroCham
     url: https://eurochamvn.org
 
 status-website:
