@@ -223,9 +223,9 @@
     "url": "https://www.clmsleep.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.clmsleep.com.ico",
     "slug": "clm-sleep",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -235,6 +235,7 @@
     "timeMonth": 1554,
     "timeYear": 2127,
     "dailyMinutesDown": {
+      "2025-04-07": 0,
       "2024-08-05": 151,
       "2024-08-04": 50
     }
