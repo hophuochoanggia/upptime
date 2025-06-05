@@ -94,18 +94,19 @@
     "url": "https://vn.braunhousehold.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vn.braunhousehold.com.ico",
     "slug": "braun-vn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1992,
-    "timeDay": 1889,
-    "timeWeek": 1572,
-    "timeMonth": 1747,
-    "timeYear": 1994,
+    "time": 2010,
+    "timeDay": 5378,
+    "timeWeek": 2484,
+    "timeMonth": 1956,
+    "timeYear": 2013,
     "dailyMinutesDown": {
+      "2025-06-05": 1,
       "2024-12-14": 153,
       "2024-07-30": 26
     }
@@ -115,10 +116,10 @@
     "url": "https://th.braunhousehold.com/",
     "icon": "https://icons.duckduckgo.com/ip3/th.braunhousehold.com.ico",
     "slug": "braun-th",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1842,
@@ -127,6 +128,7 @@
     "timeMonth": 1590,
     "timeYear": 1838,
     "dailyMinutesDown": {
+      "2025-06-05": 0,
       "2024-12-14": 153,
       "2024-07-30": 26
     }
@@ -164,7 +166,7 @@
     "timeDay": 135,
     "timeWeek": 397,
     "timeMonth": 476,
-    "timeYear": 542,
+    "timeYear": 538,
     "dailyMinutesDown": {
       "2024-11-29": 80,
       "2024-09-18": 16
