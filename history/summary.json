@@ -94,10 +94,10 @@
     "url": "https://vn.braunhousehold.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vn.braunhousehold.com.ico",
     "slug": "braun-vn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1992,
@@ -106,6 +106,7 @@
     "timeMonth": 1882,
     "timeYear": 1993,
     "dailyMinutesDown": {
+      "2025-06-27": 1,
       "2024-12-14": 153,
       "2024-07-30": 26
     }
