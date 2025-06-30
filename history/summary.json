@@ -4,46 +4,50 @@
     "url": "https://delonghi.vn/",
     "icon": "https://icons.duckduckgo.com/ip3/delonghi.vn.ico",
     "slug": "de-longhi-vn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2590,
     "timeDay": 2209,
     "timeWeek": 2609,
     "timeMonth": 2492,
-    "timeYear": 2594,
-    "dailyMinutesDown": {}
+    "timeYear": 2595,
+    "dailyMinutesDown": {
+      "2025-06-30": 3
+    }
   },
   {
     "name": "De'Longhi ID",
     "url": "https://id.delonghi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.delonghi.com.ico",
     "slug": "de-longhi-id",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2140,
     "timeDay": 2178,
     "timeWeek": 2367,
     "timeMonth": 2076,
     "timeYear": 2101,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-30": 3
+    }
   },
   {
     "name": "De'Longhi PH",
     "url": "https://delonghi.ph/",
     "icon": "https://icons.duckduckgo.com/ip3/delonghi.ph.ico",
     "slug": "de-longhi-ph",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2138,
@@ -51,17 +55,19 @@
     "timeWeek": 2000,
     "timeMonth": 1918,
     "timeYear": 2109,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-30": 2
+    }
   },
   {
     "name": "De'Longhi TH",
     "url": "https://delonghi.co.th/",
     "icon": "https://icons.duckduckgo.com/ip3/delonghi.co.th.ico",
     "slug": "de-longhi-th",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2361,
@@ -69,17 +75,19 @@
     "timeWeek": 2368,
     "timeMonth": 2144,
     "timeYear": 2308,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-30": 2
+    }
   },
   {
     "name": "De'Longhi CA",
     "url": "https://kh.delonghi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/kh.delonghi.com.ico",
     "slug": "de-longhi-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2164,
@@ -87,7 +95,9 @@
     "timeWeek": 2081,
     "timeMonth": 1966,
     "timeYear": 2158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-30": 1
+    }
   },
   {
     "name": "Braun VN",
@@ -141,18 +151,20 @@
     "url": "https://th.kenwoodworld.com/",
     "icon": "https://icons.duckduckgo.com/ip3/th.kenwoodworld.com.ico",
     "slug": "kenwood-world",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2191,
     "timeDay": 2565,
     "timeWeek": 2590,
     "timeMonth": 2209,
-    "timeYear": 2214,
-    "dailyMinutesDown": {}
+    "timeYear": 2215,
+    "dailyMinutesDown": {
+      "2025-06-30": 1
+    }
   },
   {
     "name": "CPAP",
@@ -169,7 +181,7 @@
     "timeDay": 291,
     "timeWeek": 669,
     "timeMonth": 661,
-    "timeYear": 540,
+    "timeYear": 539,
     "dailyMinutesDown": {
       "2024-11-29": 80,
       "2024-09-18": 16
@@ -190,7 +202,7 @@
     "timeDay": 1786,
     "timeWeek": 1490,
     "timeMonth": 1505,
-    "timeYear": 1327,
+    "timeYear": 1329,
     "dailyMinutesDown": {
       "2025-02-07": 15,
       "2024-11-09": 21,
@@ -213,7 +225,7 @@
     "timeDay": 122,
     "timeWeek": 208,
     "timeMonth": 205,
-    "timeYear": 191,
+    "timeYear": 190,
     "dailyMinutesDown": {
       "2024-10-22": 27
     }
@@ -233,7 +245,7 @@
     "timeDay": 2210,
     "timeWeek": 3113,
     "timeMonth": 2848,
-    "timeYear": 2082,
+    "timeYear": 2077,
     "dailyMinutesDown": {
       "2024-08-05": 151,
       "2024-08-04": 50
@@ -254,7 +266,7 @@
     "timeDay": 797,
     "timeWeek": 1032,
     "timeMonth": 1075,
-    "timeYear": 488,
+    "timeYear": 489,
     "dailyMinutesDown": {}
   },
   {
@@ -272,7 +284,7 @@
     "timeDay": 2764,
     "timeWeek": 2817,
     "timeMonth": 2733,
-    "timeYear": 2662,
+    "timeYear": 2663,
     "dailyMinutesDown": {
       "2024-08-05": 151,
       "2024-08-04": 14
