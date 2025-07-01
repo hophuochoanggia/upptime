@@ -27,9 +27,9 @@
     "slug": "de-longhi-id",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "92.42%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "93.09%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.98%",
     "time": 2145,
     "timeDay": 2636,
@@ -37,7 +37,6 @@
     "timeMonth": 2158,
     "timeYear": 2108,
     "dailyMinutesDown": {
-      "2025-07-01": 10,
       "2025-06-30": 100
     }
   },
@@ -48,9 +47,9 @@
     "slug": "de-longhi-ph",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "92.58%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "93.20%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
     "time": 2139,
     "timeDay": 2253,
@@ -58,7 +57,6 @@
     "timeMonth": 1964,
     "timeYear": 2111,
     "dailyMinutesDown": {
-      "2025-07-01": 9,
       "2025-06-30": 97
     }
   },
@@ -68,10 +66,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/delonghi.co.th.ico",
     "slug": "de-longhi-th",
     "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "92.75%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "99.76%",
+    "uptime": "99.70%",
+    "uptimeDay": "93.26%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
     "time": 2366,
     "timeDay": 2819,
@@ -79,7 +77,6 @@
     "timeMonth": 2221,
     "timeYear": 2315,
     "dailyMinutesDown": {
-      "2025-07-01": 7,
       "2025-06-30": 97
     }
   },
@@ -90,9 +87,9 @@
     "slug": "de-longhi-ca",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "92.89%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "93.33%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
     "time": 2165,
     "timeDay": 2357,
@@ -100,7 +97,6 @@
     "timeMonth": 2020,
     "timeYear": 2161,
     "dailyMinutesDown": {
-      "2025-07-01": 6,
       "2025-06-30": 97
     }
   },
@@ -156,19 +152,19 @@
     "url": "https://th.kenwoodworld.com/",
     "icon": "https://icons.duckduckgo.com/ip3/th.kenwoodworld.com.ico",
     "slug": "kenwood-world",
-    "status": "down",
+    "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "91.67%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.98%",
-    "time": 2194,
-    "timeDay": 2585,
-    "timeWeek": 2633,
-    "timeMonth": 2264,
-    "timeYear": 2220,
+    "uptimeDay": "90.73%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.97%",
+    "time": 2196,
+    "timeDay": 2667,
+    "timeWeek": 2666,
+    "timeMonth": 2286,
+    "timeYear": 2223,
     "dailyMinutesDown": {
-      "2025-07-01": 25,
+      "2025-07-01": 38,
       "2025-06-30": 95
     }
   },
