@@ -151,10 +151,10 @@
     "url": "https://th.kenwoodworld.com/",
     "icon": "https://icons.duckduckgo.com/ip3/th.kenwoodworld.com.ico",
     "slug": "kenwood-world",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "93.41%",
-    "uptimeWeek": "99.06%",
+    "uptimeDay": "93.38%",
+    "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
     "time": 2194,
@@ -163,6 +163,7 @@
     "timeMonth": 2254,
     "timeYear": 2219,
     "dailyMinutesDown": {
+      "2025-07-01": 0,
       "2025-06-30": 95
     }
   },
