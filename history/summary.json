@@ -196,9 +196,9 @@
     "slug": "e9",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1254,
     "timeDay": 643,
@@ -206,7 +206,6 @@
     "timeMonth": 1592,
     "timeYear": 1388,
     "dailyMinutesDown": {
-      "2025-07-24": 7,
       "2025-02-07": 15,
       "2024-11-09": 21,
       "2024-10-22": 27
@@ -219,9 +218,9 @@
     "slug": "the-oasis",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 193,
     "timeDay": 151,
@@ -229,7 +228,6 @@
     "timeMonth": 196,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-07-24": 7,
       "2024-10-22": 27
     }
   },
@@ -261,18 +259,16 @@
     "slug": "zoodoo",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 473,
     "timeDay": 953,
     "timeWeek": 996,
     "timeMonth": 1002,
     "timeYear": 550,
-    "dailyMinutesDown": {
-      "2025-07-24": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CPAP SA",
