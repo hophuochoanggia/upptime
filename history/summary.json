@@ -257,19 +257,19 @@
     "url": "https://www.zoodoodalat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.zoodoodalat.com.ico",
     "slug": "zoodoo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 477,
-    "timeDay": 869,
-    "timeWeek": 1008,
-    "timeMonth": 991,
-    "timeYear": 556,
+    "time": 479,
+    "timeDay": 1027,
+    "timeWeek": 1041,
+    "timeMonth": 1002,
+    "timeYear": 558,
     "dailyMinutesDown": {
-      "2025-07-27": 0
+      "2025-07-27": 10
     }
   },
   {
