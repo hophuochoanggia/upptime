@@ -127,7 +127,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/th.braunhousehold.com.ico",
     "slug": "braun-th",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -192,18 +192,19 @@
     "url": "https://e9.digital",
     "icon": "https://icons.duckduckgo.com/ip3/e9.digital.ico",
     "slug": "e9",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1256,
-    "timeDay": 1799,
-    "timeWeek": 1396,
-    "timeMonth": 1520,
-    "timeYear": 1402,
+    "time": 1254,
+    "timeDay": 945,
+    "timeWeek": 1287,
+    "timeMonth": 1482,
+    "timeYear": 1398,
     "dailyMinutesDown": {
+      "2025-08-02": 1,
       "2025-02-07": 15,
       "2024-11-09": 21,
       "2024-10-22": 27
@@ -214,10 +215,10 @@
     "url": "https://www.the-oasis.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/www.the-oasis.com.au.ico",
     "slug": "the-oasis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 194,
@@ -226,6 +227,7 @@
     "timeMonth": 202,
     "timeYear": 187,
     "dailyMinutesDown": {
+      "2025-08-02": 1,
       "2024-10-22": 27
     }
   },
@@ -255,10 +257,10 @@
     "url": "https://www.zoodoodalat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.zoodoodalat.com.ico",
     "slug": "zoodoo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 490,
@@ -266,7 +268,9 @@
     "timeWeek": 1164,
     "timeMonth": 1053,
     "timeYear": 578,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-02": 1
+    }
   },
   {
     "name": "CPAP SA",
