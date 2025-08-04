@@ -246,8 +246,7 @@
     "timeMonth": 2759,
     "timeYear": 2045,
     "dailyMinutesDown": {
-      "2024-08-05": 151,
-      "2024-08-04": 50
+      "2024-08-05": 151
     }
   },
   {
@@ -285,8 +284,7 @@
     "timeMonth": 2844,
     "timeYear": 2678,
     "dailyMinutesDown": {
-      "2024-08-05": 151,
-      "2024-08-04": 14
+      "2024-08-05": 151
     }
   },
   {
@@ -296,17 +294,16 @@
     "slug": "euro-cham",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 3480,
     "timeDay": 3107,
-    "timeWeek": 3478,
+    "timeWeek": 3457,
     "timeMonth": 3578,
     "timeYear": 3480,
     "dailyMinutesDown": {
-      "2025-08-03": 9,
       "2025-05-23": 26,
       "2025-05-19": 68,
       "2025-04-21": 20,
