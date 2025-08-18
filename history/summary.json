@@ -55,7 +55,7 @@
     "timeDay": 2275,
     "timeWeek": 2105,
     "timeMonth": 2163,
-    "timeYear": 2091,
+    "timeYear": 2090,
     "dailyMinutesDown": {
       "2025-06-30": 97
     }
@@ -75,7 +75,7 @@
     "timeDay": 2449,
     "timeWeek": 2631,
     "timeMonth": 2495,
-    "timeYear": 2325,
+    "timeYear": 2324,
     "dailyMinutesDown": {
       "2025-06-30": 97
     }
@@ -95,7 +95,7 @@
     "timeDay": 2121,
     "timeWeek": 2168,
     "timeMonth": 2202,
-    "timeYear": 2148,
+    "timeYear": 2147,
     "dailyMinutesDown": {
       "2025-06-30": 97
     }
@@ -115,7 +115,7 @@
     "timeDay": 1989,
     "timeWeek": 1933,
     "timeMonth": 1872,
-    "timeYear": 1968,
+    "timeYear": 1967,
     "dailyMinutesDown": {
       "2025-06-27": 42,
       "2024-12-14": 153
@@ -136,7 +136,7 @@
     "timeDay": 1845,
     "timeWeek": 1813,
     "timeMonth": 1800,
-    "timeYear": 1797,
+    "timeYear": 1796,
     "dailyMinutesDown": {
       "2025-06-08": 327,
       "2025-06-07": 1440,
@@ -181,7 +181,7 @@
     "timeDay": 581,
     "timeWeek": 539,
     "timeMonth": 592,
-    "timeYear": 531,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2024-11-29": 80,
       "2024-09-18": 16
@@ -202,7 +202,7 @@
     "timeDay": 554,
     "timeWeek": 1036,
     "timeMonth": 1321,
-    "timeYear": 1383,
+    "timeYear": 1385,
     "dailyMinutesDown": {
       "2025-08-12": 17,
       "2025-02-07": 15,
@@ -246,7 +246,7 @@
     "timeDay": 2681,
     "timeWeek": 2861,
     "timeMonth": 2818,
-    "timeYear": 2038,
+    "timeYear": 2043,
     "dailyMinutesDown": {}
   },
   {
@@ -264,7 +264,7 @@
     "timeDay": 2249,
     "timeWeek": 1335,
     "timeMonth": 1188,
-    "timeYear": 637,
+    "timeYear": 638,
     "dailyMinutesDown": {
       "2025-08-12": 17
     }
@@ -284,7 +284,7 @@
     "timeDay": 3056,
     "timeWeek": 2920,
     "timeMonth": 2880,
-    "timeYear": 2694,
+    "timeYear": 2692,
     "dailyMinutesDown": {}
   },
   {
@@ -292,10 +292,10 @@
     "url": "https://eurochamvn.org",
     "icon": "https://icons.duckduckgo.com/ip3/eurochamvn.org.ico",
     "slug": "euro-cham",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.81%",
     "time": 3500,
@@ -304,6 +304,7 @@
     "timeMonth": 3744,
     "timeYear": 3505,
     "dailyMinutesDown": {
+      "2025-08-18": 1,
       "2025-08-08": 17,
       "2025-05-23": 26,
       "2025-05-19": 68,
