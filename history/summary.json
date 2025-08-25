@@ -219,10 +219,10 @@
     "url": "https://www.the-oasis.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/www.the-oasis.com.au.ico",
     "slug": "the-oasis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 196,
@@ -231,6 +231,7 @@
     "timeMonth": 227,
     "timeYear": 188,
     "dailyMinutesDown": {
+      "2025-08-25": 1,
       "2025-08-12": 17,
       "2024-10-22": 27
     }
@@ -258,10 +259,10 @@
     "url": "https://www.zoodoodalat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.zoodoodalat.com.ico",
     "slug": "zoodoo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 533,
@@ -270,6 +271,7 @@
     "timeMonth": 1213,
     "timeYear": 657,
     "dailyMinutesDown": {
+      "2025-08-25": 1,
       "2025-08-12": 17
     }
   },
@@ -298,9 +300,9 @@
     "slug": "euro-cham",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "93.84%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "94.56%",
+    "uptimeWeek": "98.05%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.79%",
     "time": 3661,
     "timeDay": 5095,
@@ -308,7 +310,7 @@
     "timeMonth": 4546,
     "timeYear": 3683,
     "dailyMinutesDown": {
-      "2025-08-25": 67,
+      "2025-08-25": 57,
       "2025-08-24": 21,
       "2025-08-23": 49,
       "2025-08-22": 15,
