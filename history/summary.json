@@ -221,9 +221,9 @@
     "slug": "the-oasis",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 197,
     "timeDay": 277,
@@ -231,7 +231,7 @@
     "timeMonth": 232,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2025-08-26": 22,
+      "2025-08-26": 16,
       "2025-08-12": 17,
       "2024-10-22": 27
     }
@@ -241,19 +241,19 @@
     "url": "https://www.clmsleep.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.clmsleep.com.ico",
     "slug": "clm-sleep",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2327,
-    "timeDay": 7803,
-    "timeWeek": 4596,
-    "timeMonth": 3256,
-    "timeYear": 2130,
+    "time": 2332,
+    "timeDay": 6668,
+    "timeWeek": 4574,
+    "timeMonth": 3291,
+    "timeYear": 2136,
     "dailyMinutesDown": {
-      "2025-08-26": 1
+      "2025-08-26": 7
     }
   },
   {
@@ -262,10 +262,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.zoodoodalat.com.ico",
     "slug": "zoodoo",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 540,
     "timeDay": 1135,
@@ -273,7 +273,7 @@
     "timeMonth": 1199,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2025-08-26": 22,
+      "2025-08-26": 16,
       "2025-08-12": 17
     }
   },
@@ -307,7 +307,7 @@
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.79%",
     "time": 3869,
-    "timeDay": 9774,
+    "timeDay": 9295,
     "timeWeek": 6059,
     "timeMonth": 5416,
     "timeYear": 3903,
