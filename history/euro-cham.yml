@@ -1,7 +1,7 @@
 url: https://eurochamvn.org
-status: up
-code: 200
-responseTime: 4496
-lastUpdated: 2025-08-26T06:59:58.614Z
+status: down
+code: 500
+responseTime: 11252
+lastUpdated: 2025-08-26T07:09:59.571Z
 startTime: 2024-08-12T15:51:53.289Z
 generator: Upptime <https://github.com/upptime/upptime>
