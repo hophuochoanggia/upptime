@@ -14,7 +14,7 @@
     "timeDay": 2687,
     "timeWeek": 2666,
     "timeMonth": 2784,
-    "timeYear": 2633,
+    "timeYear": 2634,
     "dailyMinutesDown": {
       "2025-07-01": 20,
       "2025-06-30": 100
@@ -164,7 +164,7 @@
     "timeDay": 2187,
     "timeWeek": 2387,
     "timeMonth": 2432,
-    "timeYear": 2265,
+    "timeYear": 2266,
     "dailyMinutesDown": {
       "2025-07-01": 38,
       "2025-06-30": 95
@@ -185,7 +185,7 @@
     "timeDay": 910,
     "timeWeek": 611,
     "timeMonth": 655,
-    "timeYear": 538,
+    "timeYear": 539,
     "dailyMinutesDown": {
       "2024-11-29": 80,
       "2024-09-18": 16
@@ -206,7 +206,7 @@
     "timeDay": 2218,
     "timeWeek": 1957,
     "timeMonth": 1491,
-    "timeYear": 1393,
+    "timeYear": 1395,
     "dailyMinutesDown": {
       "2025-08-12": 17,
       "2025-02-07": 15,
@@ -252,7 +252,7 @@
     "timeDay": 3328,
     "timeWeek": 4646,
     "timeMonth": 3321,
-    "timeYear": 2148,
+    "timeYear": 2153,
     "dailyMinutesDown": {}
   },
   {
@@ -270,7 +270,7 @@
     "timeDay": 1133,
     "timeWeek": 1158,
     "timeMonth": 1231,
-    "timeYear": 675,
+    "timeYear": 676,
     "dailyMinutesDown": {
       "2025-08-27": 15,
       "2025-08-26": 16,
@@ -292,7 +292,7 @@
     "timeDay": 2602,
     "timeWeek": 2783,
     "timeMonth": 2934,
-    "timeYear": 2698,
+    "timeYear": 2699,
     "dailyMinutesDown": {}
   },
   {
@@ -300,19 +300,19 @@
     "url": "https://eurochamvn.org",
     "icon": "https://icons.duckduckgo.com/ip3/eurochamvn.org.ico",
     "slug": "euro-cham",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "98.02%",
-    "uptimeMonth": "99.47%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "99.44%",
     "uptimeYear": "99.79%",
-    "time": 3875,
-    "timeDay": 4255,
-    "timeWeek": 6108,
-    "timeMonth": 5408,
-    "timeYear": 3912,
+    "time": 3877,
+    "timeDay": 4535,
+    "timeWeek": 6087,
+    "timeMonth": 5402,
+    "timeYear": 3918,
     "dailyMinutesDown": {
-      "2025-08-27": 1,
+      "2025-08-27": 11,
       "2025-08-26": 20,
       "2025-08-25": 57,
       "2025-08-24": 21,
