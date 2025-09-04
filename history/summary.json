@@ -245,19 +245,19 @@
     "url": "https://www.clmsleep.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.clmsleep.com.ico",
     "slug": "clm-sleep",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2357,
-    "timeDay": 3655,
-    "timeWeek": 3313,
-    "timeMonth": 3442,
-    "timeYear": 2192,
+    "time": 2358,
+    "timeDay": 3534,
+    "timeWeek": 3289,
+    "timeMonth": 3432,
+    "timeYear": 2195,
     "dailyMinutesDown": {
-      "2025-09-04": 1
+      "2025-09-04": 7
     }
   },
   {
