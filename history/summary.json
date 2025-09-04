@@ -247,18 +247,16 @@
     "slug": "clm-sleep",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2358,
     "timeDay": 3534,
     "timeWeek": 3289,
     "timeMonth": 3432,
     "timeYear": 2195,
-    "dailyMinutesDown": {
-      "2025-09-04": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zoodoo",
@@ -306,10 +304,10 @@
     "url": "https://eurochamvn.org",
     "icon": "https://icons.duckduckgo.com/ip3/eurochamvn.org.ico",
     "slug": "euro-cham",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "30.73%",
-    "uptimeWeek": "88.90%",
+    "uptimeDay": "30.69%",
+    "uptimeWeek": "88.89%",
     "uptimeMonth": "96.86%",
     "uptimeYear": "99.57%",
     "time": 4186,
@@ -318,7 +316,7 @@
     "timeMonth": 6104,
     "timeYear": 4248,
     "dailyMinutesDown": {
-      "2025-09-04": 190,
+      "2025-09-04": 191,
       "2025-09-03": 840,
       "2025-09-01": 16,
       "2025-08-31": 47,
