@@ -14,7 +14,7 @@
     "timeDay": 2638,
     "timeWeek": 2729,
     "timeMonth": 2782,
-    "timeYear": 2639,
+    "timeYear": 2640,
     "dailyMinutesDown": {
       "2025-07-01": 20,
       "2025-06-30": 100
@@ -35,7 +35,7 @@
     "timeDay": 2026,
     "timeWeek": 2239,
     "timeMonth": 2164,
-    "timeYear": 2107,
+    "timeYear": 2108,
     "dailyMinutesDown": {
       "2025-06-30": 100
     }
@@ -55,7 +55,7 @@
     "timeDay": 2241,
     "timeWeek": 2191,
     "timeMonth": 2132,
-    "timeYear": 2087,
+    "timeYear": 2088,
     "dailyMinutesDown": {
       "2025-06-30": 97
     }
@@ -75,7 +75,7 @@
     "timeDay": 2735,
     "timeWeek": 2559,
     "timeMonth": 2532,
-    "timeYear": 2334,
+    "timeYear": 2335,
     "dailyMinutesDown": {
       "2025-06-30": 97
     }
@@ -115,7 +115,7 @@
     "timeDay": 1894,
     "timeWeek": 1966,
     "timeMonth": 1854,
-    "timeYear": 1953,
+    "timeYear": 1952,
     "dailyMinutesDown": {
       "2025-08-29": 27,
       "2025-08-23": 15,
@@ -166,7 +166,7 @@
     "timeDay": 2352,
     "timeWeek": 2568,
     "timeMonth": 2452,
-    "timeYear": 2274,
+    "timeYear": 2275,
     "dailyMinutesDown": {
       "2025-07-01": 38,
       "2025-06-30": 95
@@ -187,7 +187,7 @@
     "timeDay": 1072,
     "timeWeek": 622,
     "timeMonth": 610,
-    "timeYear": 541,
+    "timeYear": 542,
     "dailyMinutesDown": {
       "2024-11-29": 80,
       "2024-09-18": 16
@@ -208,7 +208,7 @@
     "timeDay": 689,
     "timeWeek": 1115,
     "timeMonth": 1449,
-    "timeYear": 1402,
+    "timeYear": 1403,
     "dailyMinutesDown": {
       "2025-08-12": 17,
       "2025-02-07": 15,
@@ -247,18 +247,16 @@
     "slug": "clm-sleep",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2360,
     "timeDay": 4643,
     "timeWeek": 3268,
     "timeMonth": 3450,
-    "timeYear": 2198,
-    "dailyMinutesDown": {
-      "2025-09-04": 9
-    }
+    "timeYear": 2197,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zoodoo",
@@ -275,7 +273,7 @@
     "timeDay": 918,
     "timeWeek": 1061,
     "timeMonth": 1142,
-    "timeYear": 716,
+    "timeYear": 717,
     "dailyMinutesDown": {
       "2025-08-28": 21,
       "2025-08-27": 15,
@@ -298,7 +296,7 @@
     "timeDay": 2915,
     "timeWeek": 3113,
     "timeMonth": 2991,
-    "timeYear": 2704,
+    "timeYear": 2705,
     "dailyMinutesDown": {}
   },
   {
@@ -306,9 +304,9 @@
     "url": "https://eurochamvn.org",
     "icon": "https://icons.duckduckgo.com/ip3/eurochamvn.org.ico",
     "slug": "euro-cham",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "82.54%",
+    "uptimeDay": "83.76%",
     "uptimeWeek": "88.73%",
     "uptimeMonth": "96.82%",
     "uptimeYear": "99.57%",
@@ -316,7 +314,7 @@
     "timeDay": 10109,
     "timeWeek": 7271,
     "timeMonth": 6193,
-    "timeYear": 4289,
+    "timeYear": 4292,
     "dailyMinutesDown": {
       "2025-09-04": 207,
       "2025-09-03": 840,
