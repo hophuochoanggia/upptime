@@ -229,7 +229,7 @@
     "uptimeYear": "99.98%",
     "time": 200,
     "timeDay": 363,
-    "timeWeek": 266,
+    "timeWeek": 267,
     "timeMonth": 234,
     "timeYear": 197,
     "dailyMinutesDown": {
@@ -247,18 +247,16 @@
     "slug": "clm-sleep",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2404,
     "timeDay": 5609,
     "timeWeek": 4590,
     "timeMonth": 3920,
     "timeYear": 2253,
-    "dailyMinutesDown": {
-      "2025-09-08": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zoodoo",
@@ -306,9 +304,9 @@
     "url": "https://eurochamvn.org",
     "icon": "https://icons.duckduckgo.com/ip3/eurochamvn.org.ico",
     "slug": "euro-cham",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "96.71%",
+    "uptimeDay": "96.68%",
     "uptimeWeek": "86.78%",
     "uptimeMonth": "96.21%",
     "uptimeYear": "99.52%",
