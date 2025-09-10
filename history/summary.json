@@ -229,7 +229,7 @@
     "uptimeYear": "99.98%",
     "time": 200,
     "timeDay": 79,
-    "timeWeek": 248,
+    "timeWeek": 250,
     "timeMonth": 230,
     "timeYear": 196,
     "dailyMinutesDown": {
@@ -245,10 +245,10 @@
     "url": "https://www.clmsleep.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.clmsleep.com.ico",
     "slug": "clm-sleep",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2411,
@@ -256,7 +256,9 @@
     "timeWeek": 4803,
     "timeMonth": 3968,
     "timeYear": 2264,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-10": 1
+    }
   },
   {
     "name": "Zoodoo",
@@ -271,7 +273,7 @@
     "uptimeYear": "99.99%",
     "time": 584,
     "timeDay": 912,
-    "timeWeek": 1048,
+    "timeWeek": 1066,
     "timeMonth": 1131,
     "timeYear": 731,
     "dailyMinutesDown": {
@@ -306,17 +308,16 @@
     "slug": "euro-cham",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "87.02%",
-    "uptimeMonth": "96.19%",
-    "uptimeYear": "99.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.11%",
+    "uptimeMonth": "96.21%",
+    "uptimeYear": "99.52%",
     "time": 4333,
-    "timeDay": 6315,
-    "timeWeek": 6909,
+    "timeDay": 7134,
+    "timeWeek": 6965,
     "timeMonth": 6262,
     "timeYear": 4413,
     "dailyMinutesDown": {
-      "2025-09-10": 9,
       "2025-09-08": 47,
       "2025-09-06": 22,
       "2025-09-05": 209,
