@@ -247,18 +247,16 @@
     "slug": "clm-sleep",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2475,
     "timeDay": 3360,
     "timeWeek": 4902,
     "timeMonth": 4358,
     "timeYear": 2367,
-    "dailyMinutesDown": {
-      "2025-09-14": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zoodoo",
