@@ -245,19 +245,19 @@
     "url": "https://www.clmsleep.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.clmsleep.com.ico",
     "slug": "clm-sleep",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2477,
-    "timeDay": 3468,
-    "timeWeek": 4858,
-    "timeMonth": 4353,
-    "timeYear": 2372,
+    "time": 2479,
+    "timeDay": 3474,
+    "timeWeek": 4788,
+    "timeMonth": 4335,
+    "timeYear": 2375,
     "dailyMinutesDown": {
-      "2025-09-15": 1
+      "2025-09-15": 10
     }
   },
   {
@@ -288,19 +288,19 @@
     "url": "https://www.cpapsa.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cpapsa.com.au.ico",
     "slug": "cpap-sa",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2696,
-    "timeDay": 1828,
-    "timeWeek": 2428,
-    "timeMonth": 2830,
-    "timeYear": 2696,
+    "time": 2698,
+    "timeDay": 2293,
+    "timeWeek": 2516,
+    "timeMonth": 2842,
+    "timeYear": 2698,
     "dailyMinutesDown": {
-      "2025-09-15": 0
+      "2025-09-15": 10
     }
   },
   {
