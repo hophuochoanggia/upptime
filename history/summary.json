@@ -130,7 +130,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/th.braunhousehold.com.ico",
     "slug": "braun-th",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.28%",
@@ -244,18 +244,20 @@
     "url": "https://www.clmsleep.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.clmsleep.com.ico",
     "slug": "clm-sleep",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2489,
-    "timeDay": 4222,
+    "timeDay": 3420,
     "timeWeek": 4640,
     "timeMonth": 4401,
     "timeYear": 2404,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-19": 0
+    }
   },
   {
     "name": "Zoodoo",
@@ -304,7 +306,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/eurochamvn.org.ico",
     "slug": "euro-cham",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.25%",
