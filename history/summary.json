@@ -244,18 +244,20 @@
     "url": "https://www.clmsleep.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.clmsleep.com.ico",
     "slug": "clm-sleep",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2491,
-    "timeDay": 3920,
-    "timeWeek": 4622,
-    "timeMonth": 4403,
-    "timeYear": 2413,
-    "dailyMinutesDown": {}
+    "time": 2486,
+    "timeDay": 2151,
+    "timeWeek": 3447,
+    "timeMonth": 4327,
+    "timeYear": 2407,
+    "dailyMinutesDown": {
+      "2025-09-20": 1
+    }
   },
   {
     "name": "Zoodoo",
@@ -312,7 +314,7 @@
     "time": 4324,
     "timeDay": 3013,
     "timeWeek": 3381,
-    "timeMonth": 6244,
+    "timeMonth": 6231,
     "timeYear": 4421,
     "dailyMinutesDown": {
       "2025-09-08": 47,
