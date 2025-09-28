@@ -246,9 +246,9 @@
     "slug": "clm-sleep",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 2537,
     "timeDay": 4000,
@@ -256,7 +256,6 @@
     "timeMonth": 4409,
     "timeYear": 2497,
     "dailyMinutesDown": {
-      "2025-09-28": 7,
       "2025-09-23": 15
     }
   },
@@ -306,11 +305,11 @@
     "url": "https://eurochamvn.org",
     "icon": "https://icons.duckduckgo.com/ip3/eurochamvn.org.ico",
     "slug": "euro-cham",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.76%",
+    "uptimeMonth": "96.75%",
     "uptimeYear": "99.52%",
     "time": 4313,
     "timeDay": 3259,
@@ -318,6 +317,7 @@
     "timeMonth": 6208,
     "timeYear": 4420,
     "dailyMinutesDown": {
+      "2025-09-28": 0,
       "2025-09-08": 47,
       "2025-09-06": 22,
       "2025-09-05": 209,
