@@ -6,9 +6,9 @@
     "slug": "de-longhi-vn",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 2590,
     "timeDay": 6054,
@@ -16,7 +16,6 @@
     "timeMonth": 2822,
     "timeYear": 2581,
     "dailyMinutesDown": {
-      "2025-11-25": 6,
       "2025-11-19": 16,
       "2025-07-01": 20,
       "2025-06-30": 100
@@ -29,9 +28,9 @@
     "slug": "de-longhi-id",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2085,
     "timeDay": 4933,
@@ -39,7 +38,6 @@
     "timeMonth": 2165,
     "timeYear": 2052,
     "dailyMinutesDown": {
-      "2025-11-25": 5,
       "2025-06-30": 100
     }
   },
