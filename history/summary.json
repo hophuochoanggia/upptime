@@ -6,9 +6,9 @@
     "slug": "de-longhi-vn",
     "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 2595,
     "timeDay": 3448,
@@ -16,7 +16,7 @@
     "timeMonth": 2911,
     "timeYear": 2589,
     "dailyMinutesDown": {
-      "2025-11-27": 6,
+      "2025-11-27": 16,
       "2025-11-19": 16,
       "2025-07-01": 20,
       "2025-06-30": 100
@@ -27,11 +27,11 @@
     "url": "https://id.delonghi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.delonghi.com.ico",
     "slug": "de-longhi-id",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 2092,
     "timeDay": 2962,
@@ -39,6 +39,7 @@
     "timeMonth": 2256,
     "timeYear": 2060,
     "dailyMinutesDown": {
+      "2025-11-27": 9,
       "2025-06-30": 100
     }
   },
@@ -49,9 +50,9 @@
     "slug": "de-longhi-ph",
     "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 2072,
     "timeDay": 2484,
@@ -59,7 +60,7 @@
     "timeMonth": 2263,
     "timeYear": 2013,
     "dailyMinutesDown": {
-      "2025-11-27": 5,
+      "2025-11-27": 15,
       "2025-06-30": 97
     }
   },
@@ -70,9 +71,9 @@
     "slug": "de-longhi-th",
     "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 2308,
     "timeDay": 2925,
@@ -80,7 +81,7 @@
     "timeMonth": 2447,
     "timeYear": 2280,
     "dailyMinutesDown": {
-      "2025-11-27": 3,
+      "2025-11-27": 13,
       "2025-06-30": 97
     }
   },
@@ -91,9 +92,9 @@
     "slug": "de-longhi-ca",
     "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 2112,
     "timeDay": 3123,
@@ -101,7 +102,7 @@
     "timeMonth": 2160,
     "timeYear": 2051,
     "dailyMinutesDown": {
-      "2025-11-27": 2,
+      "2025-11-27": 12,
       "2025-06-30": 97
     }
   },
@@ -166,9 +167,9 @@
     "slug": "kenwood-world",
     "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.97%",
     "time": 2226,
     "timeDay": 2831,
@@ -176,7 +177,7 @@
     "timeMonth": 2427,
     "timeYear": 2235,
     "dailyMinutesDown": {
-      "2025-11-27": 1,
+      "2025-11-27": 11,
       "2025-11-18": 38,
       "2025-07-01": 38,
       "2025-06-30": 95
