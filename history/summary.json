@@ -6,17 +6,16 @@
     "slug": "de-longhi-vn",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "93.59%",
-    "uptimeMonth": "98.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "93.65%",
+    "uptimeMonth": "98.50%",
     "uptimeYear": "99.85%",
     "time": 2705,
     "timeDay": 3271,
     "timeWeek": 4496,
-    "timeMonth": 3788,
+    "timeMonth": 3816,
     "timeYear": 2749,
     "dailyMinutesDown": {
-      "2025-11-30": 6,
       "2025-11-27": 640,
       "2025-11-19": 16,
       "2025-07-01": 20,
@@ -37,7 +36,7 @@
     "time": 2088,
     "timeDay": 1932,
     "timeWeek": 2995,
-    "timeMonth": 2321,
+    "timeMonth": 2340,
     "timeYear": 2060,
     "dailyMinutesDown": {
       "2025-11-27": 633,
@@ -58,7 +57,7 @@
     "time": 2160,
     "timeDay": 3031,
     "timeWeek": 4225,
-    "timeMonth": 3184,
+    "timeMonth": 3215,
     "timeYear": 2148,
     "dailyMinutesDown": {
       "2025-11-27": 639,
@@ -79,7 +78,7 @@
     "time": 2348,
     "timeDay": 2878,
     "timeWeek": 3729,
-    "timeMonth": 2999,
+    "timeMonth": 3023,
     "timeYear": 2342,
     "dailyMinutesDown": {
       "2025-11-29": 8,
@@ -101,7 +100,7 @@
     "time": 2213,
     "timeDay": 2875,
     "timeWeek": 5379,
-    "timeMonth": 3420,
+    "timeMonth": 3463,
     "timeYear": 2197,
     "dailyMinutesDown": {
       "2025-11-27": 636,
@@ -122,7 +121,7 @@
     "time": 1949,
     "timeDay": 2032,
     "timeWeek": 1916,
-    "timeMonth": 1886,
+    "timeMonth": 1887,
     "timeYear": 1906,
     "dailyMinutesDown": {
       "2025-08-29": 27,
@@ -146,7 +145,7 @@
     "time": 1798,
     "timeDay": 1990,
     "timeWeek": 1999,
-    "timeMonth": 1856,
+    "timeMonth": 1863,
     "timeYear": 1742,
     "dailyMinutesDown": {
       "2025-11-25": 18,
@@ -176,7 +175,7 @@
     "time": 2286,
     "timeDay": 2998,
     "timeWeek": 4071,
-    "timeMonth": 2988,
+    "timeMonth": 3019,
     "timeYear": 2308,
     "dailyMinutesDown": {
       "2025-11-29": 42,
@@ -200,7 +199,7 @@
     "time": 539,
     "timeDay": 788,
     "timeWeek": 407,
-    "timeMonth": 443,
+    "timeMonth": 449,
     "timeYear": 545,
     "dailyMinutesDown": {}
   },
@@ -218,7 +217,7 @@
     "time": 1444,
     "timeDay": 1372,
     "timeWeek": 1830,
-    "timeMonth": 1565,
+    "timeMonth": 1550,
     "timeYear": 1546,
     "dailyMinutesDown": {
       "2025-11-18": 133,
@@ -241,7 +240,7 @@
     "time": 201,
     "timeDay": 284,
     "timeWeek": 198,
-    "timeMonth": 231,
+    "timeMonth": 232,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2025-10-20": 32,
@@ -265,7 +264,7 @@
     "time": 2599,
     "timeDay": 2936,
     "timeWeek": 3058,
-    "timeMonth": 3408,
+    "timeMonth": 3424,
     "timeYear": 2849,
     "dailyMinutesDown": {
       "2025-11-18": 115,
@@ -286,7 +285,7 @@
     "time": 729,
     "timeDay": 2092,
     "timeWeek": 1387,
-    "timeMonth": 1295,
+    "timeMonth": 1310,
     "timeYear": 962,
     "dailyMinutesDown": {
       "2025-08-28": 21,
@@ -309,7 +308,7 @@
     "time": 2724,
     "timeDay": 3287,
     "timeWeek": 2953,
-    "timeMonth": 2787,
+    "timeMonth": 2790,
     "timeYear": 2748,
     "dailyMinutesDown": {}
   },
@@ -327,7 +326,7 @@
     "time": 4227,
     "timeDay": 3754,
     "timeWeek": 3677,
-    "timeMonth": 3492,
+    "timeMonth": 3505,
     "timeYear": 4439,
     "dailyMinutesDown": {
       "2025-10-27": 37,
