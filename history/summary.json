@@ -4,19 +4,19 @@
     "url": "https://delonghi.vn/",
     "icon": "https://icons.duckduckgo.com/ip3/delonghi.vn.ico",
     "slug": "de-longhi-vn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "92.09%",
-    "uptimeWeek": "90.01%",
-    "uptimeMonth": "92.62%",
+    "uptimeDay": "91.29%",
+    "uptimeWeek": "89.90%",
+    "uptimeMonth": "92.59%",
     "uptimeYear": "99.36%",
     "time": 3690,
-    "timeDay": 6752,
-    "timeWeek": 5857,
-    "timeMonth": 5428,
-    "timeYear": 3970,
+    "timeDay": 6550,
+    "timeWeek": 5833,
+    "timeMonth": 5420,
+    "timeYear": 3969,
     "dailyMinutesDown": {
-      "2025-12-20": 114,
+      "2025-12-20": 126,
       "2025-12-19": 126,
       "2025-12-18": 229,
       "2025-12-17": 122,
@@ -81,7 +81,7 @@
     "timeDay": 7046,
     "timeWeek": 4879,
     "timeMonth": 4905,
-    "timeYear": 3239,
+    "timeYear": 3240,
     "dailyMinutesDown": {
       "2025-12-20": 51,
       "2025-12-19": 104,
@@ -120,7 +120,7 @@
     "timeDay": 4844,
     "timeWeek": 5090,
     "timeMonth": 4722,
-    "timeYear": 3168,
+    "timeYear": 3169,
     "dailyMinutesDown": {
       "2025-12-20": 34,
       "2025-12-19": 98,
@@ -157,7 +157,7 @@
     "timeDay": 3968,
     "timeWeek": 5260,
     "timeMonth": 4998,
-    "timeYear": 3057,
+    "timeYear": 3058,
     "dailyMinutesDown": {
       "2025-12-20": 34,
       "2025-12-19": 92,
@@ -194,7 +194,7 @@
     "timeDay": 1798,
     "timeWeek": 1796,
     "timeMonth": 1891,
-    "timeYear": 1846,
+    "timeYear": 1845,
     "dailyMinutesDown": {
       "2025-08-29": 27,
       "2025-08-23": 15,
@@ -217,7 +217,7 @@
     "timeDay": 1879,
     "timeWeek": 1874,
     "timeMonth": 1890,
-    "timeYear": 1744,
+    "timeYear": 1743,
     "dailyMinutesDown": {
       "2025-12-09": 15,
       "2025-12-04": 24,
@@ -248,7 +248,7 @@
     "timeDay": 4035,
     "timeWeek": 5004,
     "timeMonth": 4935,
-    "timeYear": 3121,
+    "timeYear": 3122,
     "dailyMinutesDown": {
       "2025-12-19": 73,
       "2025-12-18": 54,
@@ -287,7 +287,7 @@
     "timeDay": 179,
     "timeWeek": 642,
     "timeMonth": 466,
-    "timeYear": 546,
+    "timeYear": 547,
     "dailyMinutesDown": {
       "2025-12-05": 18
     }
@@ -307,7 +307,7 @@
     "timeDay": 1719,
     "timeWeek": 1338,
     "timeMonth": 1425,
-    "timeYear": 1569,
+    "timeYear": 1568,
     "dailyMinutesDown": {
       "2025-12-16": 34,
       "2025-11-18": 133,
@@ -356,7 +356,7 @@
     "timeDay": 4164,
     "timeWeek": 3387,
     "timeMonth": 3146,
-    "timeYear": 2937,
+    "timeYear": 2941,
     "dailyMinutesDown": {
       "2025-12-03": 17,
       "2025-11-18": 115,
@@ -378,7 +378,7 @@
     "timeDay": 981,
     "timeWeek": 1100,
     "timeMonth": 1349,
-    "timeYear": 1017,
+    "timeYear": 1019,
     "dailyMinutesDown": {
       "2025-12-16": 34,
       "2025-08-28": 21,
@@ -420,7 +420,7 @@
     "timeDay": 3348,
     "timeWeek": 3410,
     "timeMonth": 3553,
-    "timeYear": 4450,
+    "timeYear": 4452,
     "dailyMinutesDown": {
       "2025-10-27": 37,
       "2025-09-08": 47,
