@@ -83,19 +83,19 @@
     "url": "https://delonghi.ph/",
     "icon": "https://icons.duckduckgo.com/ip3/delonghi.ph.ico",
     "slug": "de-longhi-ph",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "98.00%",
-    "uptimeWeek": "95.48%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "95.46%",
     "uptimeMonth": "93.76%",
-    "uptimeYear": "99.31%",
-    "time": 3555,
+    "uptimeYear": "99.32%",
+    "time": 3556,
     "timeDay": 8759,
     "timeWeek": 6252,
     "timeMonth": 5178,
     "timeYear": 3739,
     "dailyMinutesDown": {
-      "2026-01-11": 29,
+      "2026-01-11": 31,
       "2026-01-09": 80,
       "2026-01-08": 100,
       "2026-01-07": 94,
@@ -130,7 +130,7 @@
       "2025-12-06": 35,
       "2025-12-05": 36,
       "2025-12-04": 135,
-      "2025-12-03": 497
+      "2025-12-03": 481
     }
   },
   {
@@ -308,7 +308,7 @@
     "time": 3248,
     "timeDay": 4800,
     "timeWeek": 5707,
-    "timeMonth": 4944,
+    "timeMonth": 4950,
     "timeYear": 3556,
     "dailyMinutesDown": {
       "2026-01-11": 71,
