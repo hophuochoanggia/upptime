@@ -4,18 +4,19 @@
     "url": "https://delonghi.vn/",
     "icon": "https://icons.duckduckgo.com/ip3/delonghi.vn.ico",
     "slug": "de-longhi-vn",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.49%",
-    "uptimeMonth": "92.56%",
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "93.48%",
+    "uptimeMonth": "92.61%",
     "uptimeYear": "99.38%",
-    "time": 4392,
+    "time": 4394,
     "timeDay": 11487,
     "timeWeek": 7497,
     "timeMonth": 5921,
     "timeYear": 4625,
     "dailyMinutesDown": {
+      "2026-01-11": 1,
       "2026-01-09": 175,
       "2026-01-08": 117,
       "2026-01-07": 140,
@@ -42,7 +43,7 @@
       "2025-12-17": 122,
       "2025-12-16": 54,
       "2025-12-15": 111,
-      "2025-12-14": 124
+      "2025-12-14": 98
     }
   },
   {
@@ -83,18 +84,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/delonghi.ph.ico",
     "slug": "de-longhi-ph",
     "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "95.64%",
-    "uptimeMonth": "93.71%",
-    "uptimeYear": "99.32%",
+    "uptime": "99.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.76%",
+    "uptimeMonth": "93.74%",
+    "uptimeYear": "99.29%",
     "time": 3529,
     "timeDay": 8147,
     "timeWeek": 6041,
     "timeMonth": 5127,
     "timeYear": 3721,
     "dailyMinutesDown": {
-      "2026-01-10": 13,
       "2026-01-09": 80,
       "2026-01-08": 100,
       "2026-01-07": 94,
@@ -129,7 +129,9 @@
       "2025-12-06": 35,
       "2025-12-05": 36,
       "2025-12-04": 135,
-      "2025-12-03": 497
+      "2025-12-03": 497,
+      "2025-12-02": 21,
+      "2025-12-01": 135
     }
   },
   {
@@ -139,9 +141,9 @@
     "slug": "de-longhi-th",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "97.42%",
-    "uptimeMonth": "95.15%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.53%",
+    "uptimeMonth": "95.18%",
     "uptimeYear": "99.31%",
     "time": 3477,
     "timeDay": 4856,
@@ -149,7 +151,6 @@
     "timeMonth": 5073,
     "timeYear": 3668,
     "dailyMinutesDown": {
-      "2026-01-10": 11,
       "2026-01-09": 62,
       "2026-01-07": 71,
       "2026-01-06": 98,
@@ -362,7 +363,7 @@
     "time": 525,
     "timeDay": 454,
     "timeWeek": 250,
-    "timeMonth": 490,
+    "timeMonth": 487,
     "timeYear": 544,
     "dailyMinutesDown": {
       "2025-12-05": 18
