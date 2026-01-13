@@ -4,19 +4,19 @@
     "url": "https://delonghi.vn/",
     "icon": "https://icons.duckduckgo.com/ip3/delonghi.vn.ico",
     "slug": "de-longhi-vn",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "89.53%",
-    "uptimeWeek": "91.27%",
-    "uptimeMonth": "92.47%",
-    "uptimeYear": "99.37%",
-    "time": 4485,
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "89.40%",
+    "uptimeWeek": "91.26%",
+    "uptimeMonth": "92.65%",
+    "uptimeYear": "99.39%",
+    "time": 4487,
     "timeDay": 7225,
     "timeWeek": 8236,
     "timeMonth": 6100,
     "timeYear": 4762,
     "dailyMinutesDown": {
-      "2026-01-13": 95,
+      "2026-01-13": 97,
       "2026-01-12": 254,
       "2026-01-11": 100,
       "2026-01-09": 175,
@@ -41,7 +41,7 @@
       "2025-12-21": 112,
       "2025-12-20": 113,
       "2025-12-19": 126,
-      "2025-12-18": 229
+      "2025-12-18": 149
     }
   },
   {
