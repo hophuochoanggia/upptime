@@ -4,19 +4,19 @@
     "url": "https://delonghi.vn/",
     "icon": "https://icons.duckduckgo.com/ip3/delonghi.vn.ico",
     "slug": "de-longhi-vn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "87.47%",
-    "uptimeWeek": "90.98%",
-    "uptimeMonth": "92.66%",
+    "uptimeDay": "87.35%",
+    "uptimeWeek": "90.96%",
+    "uptimeMonth": "92.69%",
     "uptimeYear": "99.39%",
-    "time": 4580,
+    "time": 4582,
     "timeDay": 8271,
     "timeWeek": 8447,
-    "timeMonth": 6151,
+    "timeMonth": 6157,
     "timeYear": 4813,
     "dailyMinutesDown": {
-      "2026-01-14": 131,
+      "2026-01-14": 133,
       "2026-01-13": 96,
       "2026-01-12": 254,
       "2026-01-11": 100,
@@ -41,8 +41,7 @@
       "2025-12-22": 16,
       "2025-12-21": 112,
       "2025-12-20": 113,
-      "2025-12-19": 126,
-      "2025-12-18": 17
+      "2025-12-19": 126
     }
   },
   {
@@ -86,12 +85,12 @@
     "uptime": "99.64%",
     "uptimeDay": "92.64%",
     "uptimeWeek": "95.33%",
-    "uptimeMonth": "93.89%",
+    "uptimeMonth": "93.93%",
     "uptimeYear": "99.39%",
     "time": 3610,
     "timeDay": 10282,
     "timeWeek": 7063,
-    "timeMonth": 5047,
+    "timeMonth": 5053,
     "timeYear": 3860,
     "dailyMinutesDown": {
       "2026-01-14": 106,
@@ -147,7 +146,7 @@
     "time": 3457,
     "timeDay": 8058,
     "timeWeek": 8676,
-    "timeMonth": 5175,
+    "timeMonth": 5116,
     "timeYear": 3760,
     "dailyMinutesDown": {
       "2026-01-13": 290,
@@ -201,7 +200,7 @@
     "time": 3500,
     "timeDay": 6130,
     "timeWeek": 7203,
-    "timeMonth": 5349,
+    "timeMonth": 5302,
     "timeYear": 3736,
     "dailyMinutesDown": {
       "2026-01-14": 69,
@@ -310,7 +309,7 @@
     "time": 3396,
     "timeDay": 8001,
     "timeWeek": 6685,
-    "timeMonth": 5037,
+    "timeMonth": 5022,
     "timeYear": 3670,
     "dailyMinutesDown": {
       "2026-01-14": 45,
