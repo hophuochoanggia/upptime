@@ -4,19 +4,19 @@
     "url": "https://delonghi.vn/",
     "icon": "https://icons.duckduckgo.com/ip3/delonghi.vn.ico",
     "slug": "de-longhi-vn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "92.89%",
-    "uptimeWeek": "87.27%",
-    "uptimeMonth": "92.35%",
-    "uptimeYear": "99.36%",
-    "time": 4723,
+    "uptimeDay": "92.78%",
+    "uptimeWeek": "87.26%",
+    "uptimeMonth": "92.44%",
+    "uptimeYear": "99.37%",
+    "time": 4725,
     "timeDay": 10293,
     "timeWeek": 8906,
-    "timeMonth": 6742,
+    "timeMonth": 6750,
     "timeYear": 5115,
     "dailyMinutesDown": {
-      "2026-01-17": 92,
+      "2026-01-17": 94,
       "2026-01-16": 212,
       "2026-01-15": 267,
       "2026-01-14": 263,
@@ -38,7 +38,7 @@
       "2025-12-28": 84,
       "2025-12-27": 54,
       "2025-12-26": 44,
-      "2025-12-25": 90
+      "2025-12-25": 48
     }
   },
   {
@@ -86,8 +86,8 @@
     "uptimeYear": "99.38%",
     "time": 3857,
     "timeDay": 8665,
-    "timeWeek": 8473,
-    "timeMonth": 5737,
+    "timeWeek": 8509,
+    "timeMonth": 5745,
     "timeYear": 4167,
     "dailyMinutesDown": {
       "2026-01-17": 138,
@@ -140,7 +140,7 @@
     "uptimeYear": "99.24%",
     "time": 3549,
     "timeDay": 6388,
-    "timeWeek": 7191,
+    "timeWeek": 7258,
     "timeMonth": 5115,
     "timeYear": 3823,
     "dailyMinutesDown": {
@@ -197,7 +197,7 @@
     "uptimeYear": "99.28%",
     "time": 3581,
     "timeDay": 9056,
-    "timeWeek": 7644,
+    "timeWeek": 7434,
     "timeMonth": 5532,
     "timeYear": 3914,
     "dailyMinutesDown": {
@@ -255,7 +255,7 @@
     "uptimeYear": "99.93%",
     "time": 1932,
     "timeDay": 0,
-    "timeWeek": 1849,
+    "timeWeek": 1842,
     "timeMonth": 1865,
     "timeYear": 1843,
     "dailyMinutesDown": {
@@ -309,7 +309,7 @@
     "uptimeYear": "99.28%",
     "time": 3569,
     "timeDay": 9264,
-    "timeWeek": 8611,
+    "timeWeek": 8606,
     "timeMonth": 5580,
     "timeYear": 3955,
     "dailyMinutesDown": {
@@ -370,7 +370,7 @@
     "uptimeYear": "100.00%",
     "time": 525,
     "timeDay": 0,
-    "timeWeek": 376,
+    "timeWeek": 366,
     "timeMonth": 449,
     "timeYear": 540,
     "dailyMinutesDown": {
@@ -390,7 +390,7 @@
     "uptimeYear": "99.94%",
     "time": 1494,
     "timeDay": 0,
-    "timeWeek": 1898,
+    "timeWeek": 1834,
     "timeMonth": 1684,
     "timeYear": 1567,
     "dailyMinutesDown": {
@@ -414,7 +414,7 @@
     "uptimeYear": "99.97%",
     "time": 203,
     "timeDay": 0,
-    "timeWeek": 233,
+    "timeWeek": 228,
     "timeMonth": 249,
     "timeYear": 214,
     "dailyMinutesDown": {
@@ -439,7 +439,7 @@
     "uptimeYear": "99.97%",
     "time": 2724,
     "timeDay": 0,
-    "timeWeek": 5435,
+    "timeWeek": 5582,
     "timeMonth": 3832,
     "timeYear": 3045,
     "dailyMinutesDown": {
@@ -461,7 +461,7 @@
     "uptimeYear": "99.98%",
     "time": 828,
     "timeDay": 0,
-    "timeWeek": 1609,
+    "timeWeek": 1662,
     "timeMonth": 1296,
     "timeYear": 1069,
     "dailyMinutesDown": {
@@ -485,7 +485,7 @@
     "uptimeYear": "100.00%",
     "time": 2732,
     "timeDay": 0,
-    "timeWeek": 2683,
+    "timeWeek": 2715,
     "timeMonth": 2668,
     "timeYear": 2770,
     "dailyMinutesDown": {}
@@ -503,7 +503,7 @@
     "uptimeYear": "99.61%",
     "time": 4197,
     "timeDay": 3528,
-    "timeWeek": 3438,
+    "timeWeek": 3453,
     "timeMonth": 3509,
     "timeYear": 4427,
     "dailyMinutesDown": {
