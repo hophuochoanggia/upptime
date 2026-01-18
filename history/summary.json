@@ -4,19 +4,19 @@
     "url": "https://delonghi.vn/",
     "icon": "https://icons.duckduckgo.com/ip3/delonghi.vn.ico",
     "slug": "de-longhi-vn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "89.23%",
-    "uptimeWeek": "87.43%",
-    "uptimeMonth": "92.34%",
+    "uptimeDay": "89.08%",
+    "uptimeWeek": "87.46%",
+    "uptimeMonth": "92.37%",
     "uptimeYear": "99.36%",
-    "time": 4752,
-    "timeDay": 11123,
-    "timeWeek": 8888,
-    "timeMonth": 6787,
+    "time": 4754,
+    "timeDay": 10591,
+    "timeWeek": 8792,
+    "timeMonth": 6797,
     "timeYear": 5134,
     "dailyMinutesDown": {
-      "2026-01-18": 79,
+      "2026-01-18": 81,
       "2026-01-17": 92,
       "2026-01-16": 212,
       "2026-01-15": 267,
@@ -38,8 +38,7 @@
       "2025-12-29": 188,
       "2025-12-28": 84,
       "2025-12-27": 54,
-      "2025-12-26": 44,
-      "2025-12-25": 15
+      "2025-12-26": 44
     }
   },
   {
@@ -56,7 +55,7 @@
     "time": 2646,
     "timeDay": 0,
     "timeWeek": 2021,
-    "timeMonth": 5899,
+    "timeMonth": 5939,
     "timeYear": 2797,
     "dailyMinutesDown": {
       "2026-01-07": 72,
@@ -86,9 +85,9 @@
     "uptimeMonth": "93.73%",
     "uptimeYear": "99.38%",
     "time": 3861,
-    "timeDay": 8085,
+    "timeDay": 8197,
     "timeWeek": 8364,
-    "timeMonth": 5752,
+    "timeMonth": 5713,
     "timeYear": 4168,
     "dailyMinutesDown": {
       "2026-01-18": 52,
@@ -143,7 +142,7 @@
     "time": 3549,
     "timeDay": 7519,
     "timeWeek": 7258,
-    "timeMonth": 5121,
+    "timeMonth": 5133,
     "timeYear": 3823,
     "dailyMinutesDown": {
       "2026-01-17": 21,
@@ -200,7 +199,7 @@
     "time": 3581,
     "timeDay": 10345,
     "timeWeek": 7112,
-    "timeMonth": 5479,
+    "timeMonth": 5493,
     "timeYear": 3914,
     "dailyMinutesDown": {
       "2026-01-17": 86,
@@ -312,7 +311,7 @@
     "time": 3576,
     "timeDay": 8691,
     "timeWeek": 8513,
-    "timeMonth": 5582,
+    "timeMonth": 5607,
     "timeYear": 3954,
     "dailyMinutesDown": {
       "2026-01-18": 50,
