@@ -75,18 +75,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/delonghi.ph.ico",
     "slug": "de-longhi-ph",
     "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "90.78%",
-    "uptimeMonth": "93.03%",
-    "uptimeYear": "99.36%",
+    "uptime": "99.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "90.84%",
+    "uptimeMonth": "93.05%",
+    "uptimeYear": "99.35%",
     "time": 4240,
     "timeDay": 13667,
     "timeWeek": 10357,
     "timeMonth": 6760,
     "timeYear": 4572,
     "dailyMinutesDown": {
-      "2026-01-23": 6,
       "2026-01-22": 28,
       "2026-01-21": 226,
       "2026-01-20": 358,
@@ -120,7 +119,7 @@
       "2025-12-21": 118,
       "2025-12-20": 51,
       "2025-12-19": 104,
-      "2025-12-18": 15
+      "2025-12-18": 56
     }
   },
   {
@@ -304,19 +303,19 @@
     "url": "https://th.kenwoodworld.com/",
     "icon": "https://icons.duckduckgo.com/ip3/th.kenwoodworld.com.ico",
     "slug": "kenwood-world",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "77.77%",
-    "uptimeWeek": "91.25%",
+    "uptimeDay": "77.71%",
+    "uptimeWeek": "91.24%",
     "uptimeMonth": "94.52%",
     "uptimeYear": "99.14%",
-    "time": 3987,
+    "time": 3989,
     "timeDay": 9907,
     "timeWeek": 9181,
     "timeMonth": 6751,
     "timeYear": 4386,
     "dailyMinutesDown": {
-      "2026-01-23": 106,
+      "2026-01-23": 107,
       "2026-01-22": 255,
       "2026-01-21": 104,
       "2026-01-20": 308,
@@ -360,8 +359,7 @@
       "2025-12-01": 149,
       "2025-11-29": 42,
       "2025-11-27": 635,
-      "2025-11-18": 38,
-      "2025-07-01": 21
+      "2025-11-18": 38
     }
   },
   {
@@ -510,7 +508,7 @@
     "uptimeYear": "99.61%",
     "time": 4216,
     "timeDay": 4247,
-    "timeWeek": 3795,
+    "timeWeek": 3865,
     "timeMonth": 3634,
     "timeYear": 4422,
     "dailyMinutesDown": {
