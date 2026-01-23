@@ -13,7 +13,7 @@
     "time": 5290,
     "timeDay": 17438,
     "timeWeek": 11502,
-    "timeMonth": 8037,
+    "timeMonth": 8035,
     "timeYear": 5729,
     "dailyMinutesDown": {
       "2026-01-23": 296,
@@ -83,7 +83,7 @@
     "time": 4298,
     "timeDay": 16792,
     "timeWeek": 10482,
-    "timeMonth": 6865,
+    "timeMonth": 6872,
     "timeYear": 4625,
     "dailyMinutesDown": {
       "2026-01-23": 54,
@@ -302,19 +302,19 @@
     "url": "https://th.kenwoodworld.com/",
     "icon": "https://icons.duckduckgo.com/ip3/th.kenwoodworld.com.ico",
     "slug": "kenwood-world",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "78.93%",
-    "uptimeWeek": "89.29%",
+    "status": "down",
+    "uptime": "99.58%",
+    "uptimeDay": "78.88%",
+    "uptimeWeek": "89.28%",
     "uptimeMonth": "94.11%",
-    "uptimeYear": "99.24%",
-    "time": 4110,
+    "uptimeYear": "99.27%",
+    "time": 4112,
     "timeDay": 13155,
     "timeWeek": 9502,
     "timeMonth": 7123,
     "timeYear": 4498,
     "dailyMinutesDown": {
-      "2026-01-23": 304,
+      "2026-01-23": 305,
       "2026-01-22": 255,
       "2026-01-21": 104,
       "2026-01-20": 308,
@@ -353,9 +353,7 @@
       "2025-12-06": 23,
       "2025-12-05": 15,
       "2025-12-04": 100,
-      "2025-12-03": 469,
-      "2025-12-02": 21,
-      "2025-12-01": 130
+      "2025-12-03": 469
     }
   },
   {
