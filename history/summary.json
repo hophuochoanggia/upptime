@@ -13,7 +13,7 @@
     "time": 5661,
     "timeDay": 1660,
     "timeWeek": 1648,
-    "timeMonth": 10248,
+    "timeMonth": 10325,
     "timeYear": 5965,
     "dailyMinutesDown": {
       "2026-02-10": 24,
@@ -91,12 +91,12 @@
     "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.83%",
-    "uptimeMonth": "92.49%",
+    "uptimeMonth": "92.52%",
     "uptimeYear": "99.06%",
     "time": 4275,
     "timeDay": 1262,
     "timeWeek": 3509,
-    "timeMonth": 8812,
+    "timeMonth": 8909,
     "timeYear": 4700,
     "dailyMinutesDown": {
       "2026-02-10": 151,
@@ -203,19 +203,19 @@
     "url": "https://kh.delonghi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/kh.delonghi.com.ico",
     "slug": "de-longhi-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "98.50%",
+    "uptimeDay": "98.43%",
     "uptimeWeek": "93.52%",
     "uptimeMonth": "89.81%",
     "uptimeYear": "98.84%",
-    "time": 4219,
+    "time": 4220,
     "timeDay": 2608,
     "timeWeek": 5483,
-    "timeMonth": 8776,
+    "timeMonth": 8811,
     "timeYear": 4704,
     "dailyMinutesDown": {
-      "2026-02-12": 22,
+      "2026-02-12": 23,
       "2026-02-10": 51,
       "2026-02-09": 107,
       "2026-02-08": 252,
@@ -257,8 +257,7 @@
       "2025-12-19": 92,
       "2025-12-18": 88,
       "2025-12-17": 56,
-      "2025-12-16": 34,
-      "2025-12-15": 20
+      "2025-12-16": 34
     }
   },
   {
@@ -333,7 +332,7 @@
     "time": 4523,
     "timeDay": 1317,
     "timeWeek": 6653,
-    "timeMonth": 9052,
+    "timeMonth": 9077,
     "timeYear": 4934,
     "dailyMinutesDown": {
       "2026-02-10": 48,
