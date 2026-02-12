@@ -96,7 +96,7 @@
     "time": 4275,
     "timeDay": 1262,
     "timeWeek": 3509,
-    "timeMonth": 8657,
+    "timeMonth": 8687,
     "timeYear": 4700,
     "dailyMinutesDown": {
       "2026-02-10": 151,
@@ -205,17 +205,16 @@
     "slug": "de-longhi-ca",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "93.70%",
-    "uptimeMonth": "89.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "93.74%",
+    "uptimeMonth": "89.86%",
     "uptimeYear": "98.84%",
     "time": 4216,
     "timeDay": 2586,
     "timeWeek": 5703,
-    "timeMonth": 8831,
+    "timeMonth": 8871,
     "timeYear": 4706,
     "dailyMinutesDown": {
-      "2026-02-11": 4,
       "2026-02-10": 51,
       "2026-02-09": 107,
       "2026-02-08": 252,
@@ -258,7 +257,8 @@
       "2025-12-18": 88,
       "2025-12-17": 56,
       "2025-12-16": 34,
-      "2025-12-15": 20
+      "2025-12-15": 20,
+      "2025-12-14": 35
     }
   },
   {
