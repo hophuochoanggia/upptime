@@ -47,7 +47,7 @@ schedule:
 notifications:
   - type: slack
     channel: C02FUSCPB6Z
-    webhook: $SECRET_SLACK_WEBHOOK
+    webhook: $NOTIFICATION_SLACK_WEBHOOK_URL
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
