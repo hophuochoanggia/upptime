@@ -44,10 +44,6 @@ status-website:
 schedule:
   - cron: "*/30 * * * *"
 
-notifications:
-  - type: slack
-    channel: C02FUSCPB6Z
-    webhook: $NOTIFICATION_SLACK_WEBHOOK_URL
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
