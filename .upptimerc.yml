@@ -39,6 +39,9 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+schedule:
+  - cron: "*/30 * * * *"
+
 notifications:
   - type: slack
     channel: C02FUSCPB6Z
