@@ -149,11 +149,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/eurochamvn.org.ico",
     "slug": "eurocham-vn",
     "status": "up",
-    "uptime": "95.87%",
+    "uptime": "96.00%",
     "uptimeDay": "95.44%",
-    "uptimeWeek": "95.87%",
-    "uptimeMonth": "95.87%",
-    "uptimeYear": "95.87%",
+    "uptimeWeek": "96.00%",
+    "uptimeMonth": "96.00%",
+    "uptimeYear": "96.00%",
     "time": 2997,
     "timeDay": 2456,
     "timeWeek": 2997,
@@ -170,11 +170,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/eurocham-cambodia.org.ico",
     "slug": "eurocham-ca",
     "status": "down",
-    "uptime": "91.92%",
-    "uptimeDay": "93.04%",
-    "uptimeWeek": "91.92%",
-    "uptimeMonth": "91.92%",
-    "uptimeYear": "91.92%",
+    "uptime": "89.08%",
+    "uptimeDay": "88.03%",
+    "uptimeWeek": "89.08%",
+    "uptimeMonth": "89.08%",
+    "uptimeYear": "89.08%",
     "time": 1827,
     "timeDay": 1942,
     "timeWeek": 1827,
@@ -182,7 +182,8 @@
     "timeYear": 1827,
     "dailyMinutesDown": {
       "2026-08-19": 82,
-      "2026-08-20": 100
+      "2026-08-20": 100,
+      "2026-08-21": 72
     }
   }
 ]
