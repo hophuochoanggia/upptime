@@ -169,22 +169,22 @@
     "url": "https://eurocham-cambodia.org/",
     "icon": "https://icons.duckduckgo.com/ip3/eurocham-cambodia.org.ico",
     "slug": "eurocham-ca",
-    "status": "down",
-    "uptime": "87.40%",
-    "uptimeDay": "91.39%",
-    "uptimeWeek": "87.40%",
-    "uptimeMonth": "87.40%",
-    "uptimeYear": "87.40%",
-    "time": 1786,
-    "timeDay": 1790,
-    "timeWeek": 1786,
-    "timeMonth": 1786,
-    "timeYear": 1786,
+    "status": "up",
+    "uptime": "87.22%",
+    "uptimeDay": "90.75%",
+    "uptimeWeek": "87.22%",
+    "uptimeMonth": "87.22%",
+    "uptimeYear": "87.22%",
+    "time": 1776,
+    "timeDay": 1767,
+    "timeWeek": 1776,
+    "timeMonth": 1776,
+    "timeYear": 1776,
     "dailyMinutesDown": {
       "2026-08-19": 82,
       "2026-08-20": 100,
       "2026-08-21": 314,
-      "2026-08-22": 76
+      "2026-08-22": 85
     }
   }
 ]
