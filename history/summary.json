@@ -148,12 +148,12 @@
     "url": "https://eurochamvn.org/",
     "icon": "https://icons.duckduckgo.com/ip3/eurochamvn.org.ico",
     "slug": "eurocham-vn",
-    "status": "up",
-    "uptime": "97.68%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "97.68%",
-    "uptimeMonth": "97.68%",
-    "uptimeYear": "97.68%",
+    "status": "down",
+    "uptime": "97.69%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "97.69%",
+    "uptimeYear": "97.69%",
     "time": 2780,
     "timeDay": 1969,
     "timeWeek": 2780,
@@ -162,7 +162,8 @@
     "dailyMinutesDown": {
       "2026-08-19": 28,
       "2026-08-20": 66,
-      "2026-08-22": 49
+      "2026-08-22": 49,
+      "2026-08-23": 0
     }
   },
   {
@@ -171,11 +172,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/eurocham-cambodia.org.ico",
     "slug": "eurocham-ca",
     "status": "up",
-    "uptime": "88.96%",
-    "uptimeDay": "92.80%",
-    "uptimeWeek": "88.96%",
-    "uptimeMonth": "88.96%",
-    "uptimeYear": "88.96%",
+    "uptime": "89.27%",
+    "uptimeDay": "93.69%",
+    "uptimeWeek": "89.27%",
+    "uptimeMonth": "89.27%",
+    "uptimeYear": "89.27%",
     "time": 1703,
     "timeDay": 1283,
     "timeWeek": 1703,
@@ -186,7 +187,7 @@
       "2026-08-20": 100,
       "2026-08-21": 314,
       "2026-08-22": 115,
-      "2026-08-23": 65
+      "2026-08-23": 52
     }
   }
 ]
