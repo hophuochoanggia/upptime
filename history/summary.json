@@ -4,10 +4,10 @@
     "url": "https://delonghi.vn",
     "icon": "https://icons.duckduckgo.com/ip3/delonghi.vn.ico",
     "slug": "de-longhi-vietnam",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1644,
@@ -15,17 +15,19 @@
     "timeWeek": 1773,
     "timeMonth": 1644,
     "timeYear": 1644,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-18": 1
+    }
   },
   {
     "name": "DeLonghi Thailand",
     "url": "https://delonghi.co.th",
     "icon": "https://icons.duckduckgo.com/ip3/delonghi.co.th.ico",
     "slug": "de-longhi-thailand",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1883,
@@ -33,17 +35,19 @@
     "timeWeek": 1851,
     "timeMonth": 1883,
     "timeYear": 1883,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-18": 1
+    }
   },
   {
     "name": "DeLonghi Cambodia",
     "url": "https://kh.delonghi.com",
     "icon": "https://icons.duckduckgo.com/ip3/kh.delonghi.com.ico",
     "slug": "de-longhi-cambodia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1259,
@@ -51,16 +55,18 @@
     "timeWeek": 1465,
     "timeMonth": 1259,
     "timeYear": 1259,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-18": 1
+    }
   },
   {
     "name": "DeLonghi Indonesia",
     "url": "https://id.delonghi.com",
     "icon": "https://icons.duckduckgo.com/ip3/id.delonghi.com.ico",
     "slug": "de-longhi-indonesia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +75,9 @@
     "timeWeek": 1381,
     "timeMonth": 1328,
     "timeYear": 1328,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-18": 0
+    }
   },
   {
     "name": "Braun Household Thailand",
@@ -77,11 +85,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/th.braunhousehold.com.ico",
     "slug": "braun-household-thailand",
     "status": "up",
-    "uptime": "98.46%",
+    "uptime": "98.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.46%",
-    "uptimeYear": "98.46%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "98.49%",
     "time": 1374,
     "timeDay": 1494,
     "timeWeek": 1539,
@@ -115,9 +123,9 @@
     "url": "https://th.kenwoodworld.com",
     "icon": "https://icons.duckduckgo.com/ip3/th.kenwoodworld.com.ico",
     "slug": "kenwood-thailand",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -126,7 +134,9 @@
     "timeWeek": 1284,
     "timeMonth": 1259,
     "timeYear": 1259,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-18": 0
+    }
   },
   {
     "name": "NutriBullet Singapore",
@@ -152,11 +162,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/eurochamvn.org.ico",
     "slug": "eurocham-vn",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
     "time": 2542,
     "timeDay": 2092,
     "timeWeek": 2408,
@@ -175,11 +185,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/eurocham-cambodia.org.ico",
     "slug": "eurocham-ca",
     "status": "up",
-    "uptime": "95.08%",
+    "uptime": "95.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.24%",
-    "uptimeMonth": "95.08%",
-    "uptimeYear": "95.08%",
+    "uptimeMonth": "95.19%",
+    "uptimeYear": "95.20%",
     "time": 1694,
     "timeDay": 2190,
     "timeWeek": 2004,
